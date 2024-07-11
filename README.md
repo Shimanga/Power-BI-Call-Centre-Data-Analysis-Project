@@ -10,16 +10,11 @@ This project aims to analyze call center data extracted from 01/01/2021 to 31/03
 <li>Blank entries in speed of answer in seconds, avgTalkDuration, and satisfaction rating have been assigned 0 because they are for abandoned calls</li> </ul>
 
 The following questions can be answered from the available data:
-<H2>Customer Experience: What is the customer satisfaction rate based on post-call surveys?</H2> 
+<H2>Customer Experience: What is the customer satisfaction rate?</H2> 
 
-<H2>Agent Performance: How many calls did each agent handle within a specific period?
-What is the average call resolution rate for each agent?
-How does the average handling time vary among agents?
-What is the average speed of answer for calls handled by different agents?</H2> 
+<H2>Agent Performance: How many calls were handled, and how does the average handling time vary among agents?</H2> 
 
-<H2>Operational Efficiency:
-What are the peak hours for call volume?
-Are there patterns or trends in call volume based on time of day, day of the week, or season?</H2> 
+<H2>Operational Efficiency: Are there patterns or trends in call volume based on time of day, day of the week?</H2> 
 
 <H2>Overall Call Center Performance Recommendations</H2>
 <ul>
