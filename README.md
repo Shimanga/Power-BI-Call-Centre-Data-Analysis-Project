@@ -18,16 +18,16 @@ The following questions can be answered from the available data:
 
 <H2>Overall Call Center Performance Recommendations</H2>
 <ul>
-<li>Optimize Speed of Answer: The current average speed is 67.5 seconds. Implementing better call routing and perhaps increasing staffing could resolve this problem.</li> 
+<li><b>Optimize Speed of Answer:</b> The current average speed is 67.5 seconds. Implementing better call routing and perhaps increasing staffing could resolve this problem.</li> 
 
-<li>Enhance First Call Resolution (FCR): Track and aim to improve the number of calls resolved on the first contact. Training agents on problem-solving and providing more resources can help.</li>
+<li><b>Enhance First Call Resolution (FCR):</b> Track and aim to improve the number of calls resolved on the first contact. Training agents on problem-solving and providing more resources can help.</li>
 
-<li>Improve Customer Satisfaction: The current average rating is 3 out of 5. The aim is for a satisfaction rating of 4 or higher by enhancing agent training, improving call scripts, and providing agents with more authority to resolve issues.</li>
+<li><b>Improve Customer Satisfaction:</b> The current average rating is 3 out of 5. The aim is for a satisfaction rating of 4 or higher by enhancing agent training, improving call scripts, and providing agents with more authority to resolve issues.</li>
 
-<li>Reduce Talk Time: The current average call duration is 20 minutes which is significantly high. Ensure agents are focused on resolving issues quickly without compromising quality.</li>
+<li><b>Reduce Talk Time:</b> The current average call duration is 20 minutes which is significantly high. Ensure agents are focused on resolving issues quickly without compromising quality.</li>
 
-<li>Monitor Call Volume and Trends: Call volume seems to be high throughout the day. Increasing staff could increase efficiency.</li>
+<li><b>Monitor Call Volume and Trends:</b> Call volume seems to be high throughout the day. Increasing staff could increase efficiency.</li>
 
-<li>Implement Feedback Loops: Regularly collect feedback from customers and agents to identify pain points and areas for improvement. Use this feedback to continuously refine processes and training programs.</li>
+<li><b>Implement Feedback Loops:</b> Regularly collect feedback from customers and agents to identify pain points and areas for improvement. Use this feedback to continuously refine processes and training programs.</li>
 
-<li>Leverage Technology: Utilize advanced call center technologies like AI-driven call routing, and chatbots for basic inquiries.</li> </ul>
+<li><b>Leverage Technology:</b> Utilize advanced call center technologies like AI-driven call routing, and chatbots for basic inquiries.</li> </ul>
