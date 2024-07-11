@@ -1,5 +1,5 @@
 <H2>Should this call centre adjust staffing levels to meet anticipated call demand?</H2>
-This project aims to analyze call center data extracted from 01/01/2021 to 31/03/2021. Analyzing entries such as total calls, call duration, and satisfaction ratings can help gain valuable insights into customer behavior, agent performance, and overall contact center effectiveness. The data was cleaned, manipulated, analyzed, and visualized using Power BI
+This project aims to analyze call center data accumulated from 01/01/2021 to 31/03/2021. Analyzing entries such as total calls, call duration, and satisfaction ratings can help gain valuable insights into customer behavior, agent performance, and overall contact center effectiveness. The data was cleaned, manipulated, analyzed, and visualized using Power BI
 
 <H2>The Dataset</H2>
 
