@@ -11,16 +11,19 @@ This project aims to analyze call center data accumulated from 01/01/2021 to 31/
 
 The following questions can be answered from the available data:
 <H2>Customer Experience: What is the customer satisfaction rate?</H2> 
+
 <img src="https://github.com/Shimanga/Power-BI-Call-Centre-Data-Analysis-Project/assets/7394101/b3233357-a129-4eea-8eb3-4a82f619dcbf</img>
 
 
 <H2>Agent Performance: How many calls were handled, and how does the average handling time vary among agents?</H2> 
+
 <img src="https://github.com/Shimanga/Power-BI-Call-Centre-Data-Analysis-Project/assets/7394101/412aaa35-7523-4ed8-b589-9c0b103525c5</img>
-<img src="https://github.com/Shimanga/Power-BI-Call-Centre-Data-Analysis-Project/assets/7394101/bba6f109-4fb4-4030-93ab-6508dca869dbv
+<img src="https://github.com/Shimanga/Power-BI-Call-Centre-Data-Analysis-Project/assets/7394101/bba6f109-4fb4-4030-93ab-6508dca869db</img>
 
 
 
 <H2>Operational Efficiency: Are there patterns or trends in call volume based on time of day, day of the week?</H2> 
+
 <img src="https://github.com/Shimanga/Power-BI-Call-Centre-Data-Analysis-Project/assets/7394101/ee3cac28-c0f9-457d-9738-976145cfc3b0</img>
 
 <H2>Overall Call Center Performance Recommendations</H2>
