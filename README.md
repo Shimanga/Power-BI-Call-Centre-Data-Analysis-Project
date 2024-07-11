@@ -12,8 +12,7 @@ This project aims to analyze call center data accumulated from 01/01/2021 to 31/
 The following questions can be answered from the available data:
 <H2>Customer Experience: What is the customer satisfaction rate?</H2> 
 
-<img src="https://github.com/Shimanga/Power-BI-Call-Centre-Data-Analysis-Project/assets/7394101/b3233357-a129-4eea-8eb3-4a82f619dcbf</img>
-
+![satisfaction rate](https://github.com/Shimanga/Power-BI-Call-Centre-Data-Analysis-Project/assets/7394101/9b46bdda-ce60-4a0e-9960-10cb2b75fd2f)
 
 <H2>Agent Performance: How many calls were handled, and how does the average handling time vary among agents?</H2> 
 
