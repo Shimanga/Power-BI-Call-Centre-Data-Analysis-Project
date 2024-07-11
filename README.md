@@ -1,16 +1,13 @@
-This project aims to analyze a call center dataset. The data was cleaned, manipulated, analysed, and visualized using Power BI
-Key Dataset Features:
-Call ID: Unique identifier for each call.
-Agent: Information about the handling agent.
-Date and Time: Timestamps for each call.
-Topic: Categorization of calls based on the conversation subject.
-Answered (Y/N): Indicates if the call was answered.
-Resolved: Indicates if the call was successfully resolved.
-Speed of Answer: Time is taken for a call to be answered.
-Avg Talk Duration: Average duration of each call.
-Satisfaction Rating: Customer feedback on satisfaction.
+This project aims to analyze call center data extracted from 01/01/2021 to 31/03/2021. 01/01/2021-31/03/2021. Analyzing entries such as total calls, call duration, and satisfaction ratings can help gain valuable insights into customer behavior, agent performance, and overall contact center effectiveness. The data was cleaned, manipulated, analyzed, and visualized using Power BI
 
-Using Power BI's extensive range of visualizations and analytical capabilities, we will create dynamic reports and dashboards to explore the dataset and uncover key call center trends and insights. The analysis will include:
+The Dataset
+
+5000 total entries across 10 columns
+These columns include call ID, agent name, date, time, topic, Answered (Y/N), resolved, speed of answer in seconds, avgTalkDuration, and satisfaction rating
+8 agents are working between 9 a.m. and 6 p.m.
+Blank entries in speed of answer in seconds, avgTalkDuration, and satisfaction rating have been assigned 0 because they are for abandoned calls
+
+Exploring the data
 
 Call Volume and Distribution: Analyzing the number of calls received over time, identifying peak hours or days, and examining the distribution of calls across different topics.
 Average handle time: This metric tells how long it takes the agents to handle each call. 
@@ -18,12 +15,10 @@ Call Center Performance: Evaluating metrics such as speed of answer, average tal
 Customer satisfaction: This metric tells how satisfied the customers are with the call center service.
 Reason Analysis: Explore the most common reasons for customer inquiries, helping prioritize areas for improvement.
 
-Power BI's interactive visualizations will enable drill-down analysis and the ability to slice and dice the data based on various dimensions such as date, topic, agent, and satisfaction rating. This will empower call center managers and stakeholders to make data-driven decisions, optimize operations, and enhance customer service.
-
 
 Overall Call Center Performance Recommendations:
 
-Optimize Speed of Answer:Current Average: 67.5 secondsGoal: Aim to reduce this by implementing better call routing and perhaps increasing staffing during peak times.
+Optimize Speed of Answer: Current Average: 67.5 seconds Goal: Aim to reduce this by implementing better call routing and perhaps increasing staffing during peak times.
 
 Enhance First Call Resolution (FCR):Resolution Rate: Track and aim to improve the number of calls resolved on the first contact. Training agents on problem-solving and providing more resources can help.
 
